@@ -1,4 +1,12 @@
 
+body{
+
+    background-size:cover;
+    background-position: center;
+    
+}
+
+
 .heading{
 
     font-size: 23px;
@@ -9,15 +17,26 @@
 
 }
 
-body{
-
-    background-size:cover;
-    background-position: center;
-    
-}
 
 .anchor{
 
 background-color: white;
+height:30px;
+width:50px;
+font-size: 28px;
+
+}
+
+#status, #objects
+{
+font-size: 18px;
+background-color:#d4c5d4;
+}
+
+
+#canvas {
+
+background-color: white;
+border: solid black 5px;
 
 }
